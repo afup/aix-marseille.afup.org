@@ -4,7 +4,7 @@ title: '[Rétro] Meetup du 20 Février 2019 au Carrefour de l’Innovation'
 date: 2019-02-27T13:11:16+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=850
+guid: /archives/?p=850
 permalink: /2019/02/27/retro-meetup-20-fevrier/
 categories:
   - Conférence

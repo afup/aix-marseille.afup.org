@@ -4,7 +4,7 @@ title: '[Rétro] Meetup du 20 Septembre 2018 Inextenso digital'
 date: 2018-09-21T22:33:55+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=824
+guid: /archives/?p=824
 permalink: /2018/09/21/retro-meetup-du-20-septembre-2018-inextenso-digital/
 categories:
   - Conférence

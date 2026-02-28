@@ -4,7 +4,7 @@ title: 'Meetup II &#8211; Episode I : The Call For Papers'
 date: 2018-03-18T20:30:26+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=163
+guid: /archives/?p=163
 permalink: /2018/03/18/meetup-ii-episode-i-the-call-for-papers/
 categories:
   - Non classé

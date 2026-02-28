@@ -4,12 +4,12 @@ title: '13 juin 2018 EventSourcing au chevet des microservices &amp; Mutation te
 date: 2018-05-25T12:18:06+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=203
+guid: /archives/?p=203
 permalink: /2018/05/25/13-juin-2018-eventsourcing-au-chevet-des-microservices-mutation-testing/
 categories:
   - Conférence
 ---
-[<img class="aligncenter size-large wp-image-205" src="https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613-1024x597.jpg" alt="" width="584" height="340" srcset="https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613-1024x597.jpg 1024w, https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613-300x175.jpg 300w, https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613-768x448.jpg 768w, https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613-500x292.jpg 500w, https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613.jpg 1200w" sizes="(max-width: 584px) 100vw, 584px" />](https://aix-marseille.afup.org/files/2018/05/afup-meetup_20180613.jpg)
+[<img class="aligncenter size-large wp-image-205" src="/archives/files/2018/05/afup-meetup_20180613-1024x597.jpg" alt="" width="584" height="340" srcset="/archives/files/2018/05/afup-meetup_20180613-1024x597.jpg 1024w, /archives/files/2018/05/afup-meetup_20180613-300x175.jpg 300w, /archives/files/2018/05/afup-meetup_20180613-768x448.jpg 768w, /archives/files/2018/05/afup-meetup_20180613-500x292.jpg 500w, /archives/files/2018/05/afup-meetup_20180613.jpg 1200w" sizes="(max-width: 584px) 100vw, 584px" />](/archives/files/2018/05/afup-meetup_20180613.jpg)
 
 ## Inscription
 

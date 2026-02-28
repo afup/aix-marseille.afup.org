@@ -4,7 +4,7 @@ title: Retour présentation symfony et OpenAPI
 date: 2017-05-28T18:23:15+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=117
+guid: /archives/?p=117
 permalink: /2017/05/28/retour-presentation-symfony-et-openapi/
 categories:
   - Non classé

@@ -4,7 +4,7 @@ title: Atelier Blackfire 17 Avril 2015
 date: 2015-03-24T17:36:49+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=16
+guid: /archives/?p=16
 permalink: /2015/03/24/atelier-blackfire/
 image: /files/2015/03/Capture-d’écran-2015-04-18-à-12.04.22.png
 categories:

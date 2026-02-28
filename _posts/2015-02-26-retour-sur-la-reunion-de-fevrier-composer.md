@@ -4,7 +4,7 @@ title: 'Retour sur la réunion de février : composer'
 date: 2015-02-26T16:41:24+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=8
+guid: /archives/?p=8
 permalink: /2015/02/26/retour-sur-la-reunion-de-fevrier-composer/
 categories:
   - AperoPHP

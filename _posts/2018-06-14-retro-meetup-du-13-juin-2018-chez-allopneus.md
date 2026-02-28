@@ -4,7 +4,7 @@ title: '[Rétro] Meetup du 13 juin 2018 chez Allopneus'
 date: 2018-06-14T22:13:32+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=816
+guid: /archives/?p=816
 permalink: /2018/06/14/retro-meetup-du-13-juin-2018-chez-allopneus/
 categories:
   - Conférence

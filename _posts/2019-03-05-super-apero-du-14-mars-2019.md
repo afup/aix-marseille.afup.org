@@ -4,7 +4,7 @@ title: Super Apéro du 14 Mars 2019
 date: 2019-03-05T13:14:18+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=870
+guid: /archives/?p=870
 permalink: /2019/03/05/super-apero-du-14-mars-2019/
 categories:
   - AperoPHP

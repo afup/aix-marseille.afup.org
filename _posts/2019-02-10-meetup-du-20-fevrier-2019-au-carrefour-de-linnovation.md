@@ -4,7 +4,7 @@ title: 'Meetup du 20 Février 2019 au Carrefour de l&rsquo;Innovation'
 date: 2019-02-10T22:06:38+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=839
+guid: /archives/?p=839
 permalink: /2019/02/10/meetup-du-20-fevrier-2019-au-carrefour-de-linnovation/
 categories:
   - Conférence

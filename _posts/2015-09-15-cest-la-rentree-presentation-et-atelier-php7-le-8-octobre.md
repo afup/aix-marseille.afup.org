@@ -4,7 +4,7 @@ title: 'C&rsquo;est la rentrée ! Présentation et Atelier PHP7 le 8 Octobre'
 date: 2015-09-15T13:04:55+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=69
+guid: /archives/?p=69
 permalink: /2015/09/15/cest-la-rentree-presentation-et-atelier-php7-le-8-octobre/
 categories:
   - Non classé

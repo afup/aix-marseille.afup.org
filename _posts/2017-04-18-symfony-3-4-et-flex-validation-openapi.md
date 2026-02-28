@@ -4,7 +4,7 @@ title: Symfony 3, 4 et Flex + Validation OpenAPI
 date: 2017-04-18T06:41:02+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=108
+guid: /archives/?p=108
 permalink: /2017/04/18/symfony-3-4-et-flex-validation-openapi/
 categories:
   - Conférence

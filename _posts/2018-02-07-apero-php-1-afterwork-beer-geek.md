@@ -4,12 +4,12 @@ title: 'Apéro PHP #1 {Afterwork Beer &amp; Geek}'
 date: 2018-02-07T13:02:17+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=130
+guid: /archives/?p=130
 permalink: /2018/02/07/apero-php-1-afterwork-beer-geek/
 categories:
   - AperoPHP
 ---
-[<img class="aligncenter size-large wp-image-132" src="https://aix-marseille.afup.org/files/2018/02/visuel_apero-1024x597.jpg" alt="" width="584" height="340" srcset="https://aix-marseille.afup.org/files/2018/02/visuel_apero-1024x597.jpg 1024w, https://aix-marseille.afup.org/files/2018/02/visuel_apero-300x175.jpg 300w, https://aix-marseille.afup.org/files/2018/02/visuel_apero-768x448.jpg 768w, https://aix-marseille.afup.org/files/2018/02/visuel_apero-500x292.jpg 500w, https://aix-marseille.afup.org/files/2018/02/visuel_apero.jpg 1200w" sizes="(max-width: 584px) 100vw, 584px" />](https://aix-marseille.afup.org/files/2018/02/visuel_apero.jpg)
+[<img class="aligncenter size-large wp-image-132" src="/archives/files/2018/02/visuel_apero-1024x597.jpg" alt="" width="584" height="340" srcset="/archives/files/2018/02/visuel_apero-1024x597.jpg 1024w, /archives/files/2018/02/visuel_apero-300x175.jpg 300w, /archives/files/2018/02/visuel_apero-768x448.jpg 768w, /archives/files/2018/02/visuel_apero-500x292.jpg 500w, /archives/files/2018/02/visuel_apero.jpg 1200w" sizes="(max-width: 584px) 100vw, 584px" />](/archives/files/2018/02/visuel_apero.jpg)
 
 Parce que l&rsquo;année a démarré sur les chapeaux de roues pour tout le monde, nous nous sommes dit qu&rsquo;une petite soirée afterwork autour d&rsquo;une (bonne) bière nous ferait le plus grand bien !
 

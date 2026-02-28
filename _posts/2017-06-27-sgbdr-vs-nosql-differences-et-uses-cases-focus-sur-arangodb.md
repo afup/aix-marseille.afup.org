@@ -4,7 +4,7 @@ title: SGBDR vs NoSQL, Différences et Uses Cases. Focus sur ArangoDB.
 date: 2017-06-27T06:38:11+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=119
+guid: /archives/?p=119
 permalink: /2017/06/27/sgbdr-vs-nosql-differences-et-uses-cases-focus-sur-arangodb/
 image: /files/2017/06/AAEAAQAAAAAAAAunAAAAJGNjYWQ2YmNiLWRlMDYtNDBlOC1iZjM4LWNhZDRjYzA4MzJlZA.jpg
 categories:

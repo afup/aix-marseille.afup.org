@@ -4,7 +4,7 @@ title: Retour présentation Laravel et Expression Langage
 date: 2017-10-18T21:05:18+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=140
+guid: /archives/?p=140
 permalink: /2017/10/18/retour-presentation-laravel-et-expression-langage/
 categories:
   - Conférence

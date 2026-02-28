@@ -4,7 +4,7 @@ title: Super Apero PHP National
 date: 2017-02-26T09:24:26+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=105
+guid: /archives/?p=105
 permalink: /2017/02/26/super-apero-php-national/
 categories:
   - Non classé

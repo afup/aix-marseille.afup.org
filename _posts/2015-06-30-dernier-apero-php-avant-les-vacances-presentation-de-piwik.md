@@ -4,7 +4,7 @@ title: 'Dernier Apéro PHP avant les vacances : Présentation de Piwik'
 date: 2015-06-30T16:33:30+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=67
+guid: /archives/?p=67
 permalink: /2015/06/30/dernier-apero-php-avant-les-vacances-presentation-de-piwik/
 categories:
   - AperoPHP

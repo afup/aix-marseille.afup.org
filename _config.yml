@@ -1,4 +1,5 @@
 url: "http://aix-marseille.afup.org"
+baseurl: /archives
 
 title: "AFUP Aix-Marseille"
 description: >
@@ -8,7 +9,6 @@ meetup_url: "https://www.meetup.com/fr-FR/afup-aix-marseille-php/"
 
 permalink: /posts/:title
 
-ga_ua: "G-54QC9YDH3Y"
 home_featured_articles_count: 1
 
 markdown: kramdown

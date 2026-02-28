@@ -4,7 +4,7 @@ title: Apéro PHP février 2016
 date: 2016-02-10T00:12:38+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=76
+guid: /archives/?p=76
 permalink: /2016/02/10/apero-php-fevrier-2016/
 categories:
   - AperoPHP

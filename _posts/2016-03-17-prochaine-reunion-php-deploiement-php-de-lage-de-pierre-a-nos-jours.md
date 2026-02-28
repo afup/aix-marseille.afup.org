@@ -4,7 +4,7 @@ title: 'Déploiement PHP : de l&rsquo;âge de pierre à nos jours.'
 date: 2016-03-17T17:16:25+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=80
+guid: /archives/?p=80
 permalink: /2016/03/17/prochaine-reunion-php-deploiement-php-de-lage-de-pierre-a-nos-jours/
 categories:
   - Non classé

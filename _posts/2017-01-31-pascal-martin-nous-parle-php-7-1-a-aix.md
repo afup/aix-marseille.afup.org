@@ -4,7 +4,7 @@ title: Pascal Martin nous parle PHP 7.1 à Aix !
 date: 2017-01-31T21:10:57+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=84
+guid: /archives/?p=84
 permalink: /2017/01/31/pascal-martin-nous-parle-php-7-1-a-aix/
 image: /files/2017/01/m7srL9Uz-512x288.jpg
 categories:

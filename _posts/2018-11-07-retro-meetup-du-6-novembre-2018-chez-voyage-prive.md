@@ -4,7 +4,7 @@ title: '[Rétro] Meetup du 6 Novembre 2018 chez Voyage Privé'
 date: 2018-11-07T23:08:18+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=827
+guid: /archives/?p=827
 permalink: /2018/11/07/retro-meetup-du-6-novembre-2018-chez-voyage-prive/
 categories:
   - Conférence

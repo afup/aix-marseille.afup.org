@@ -4,13 +4,13 @@ title: 'Co-meetup thecamp : Prooph, du Legacy vers DDD / CQRS / EventSourcing'
 date: 2018-02-25T20:01:47+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=143
+guid: /archives/?p=143
 permalink: /2018/02/25/co-meetup-thecamp-prooph-du-legacy-vers-ddd-cqrs-eventsourcing/
 image: /files/2018/02/highres_467894402.jpeg-800x288.png
 categories:
   - Conférence
 ---
-[<img class="size-full wp-image-144 aligncenter" src="https://aix-marseille.afup.org/files/2018/02/highres_467894402.jpeg.png" alt="" width="800" height="533" srcset="https://aix-marseille.afup.org/files/2018/02/highres_467894402.jpeg.png 800w, https://aix-marseille.afup.org/files/2018/02/highres_467894402.jpeg-300x200.png 300w, https://aix-marseille.afup.org/files/2018/02/highres_467894402.jpeg-768x512.png 768w, https://aix-marseille.afup.org/files/2018/02/highres_467894402.jpeg-450x300.png 450w" sizes="(max-width: 800px) 100vw, 800px" />](https://aix-marseille.afup.org/files/2018/02/highres_467894402.jpeg.png)
+[<img class="size-full wp-image-144 aligncenter" src="/archives/files/2018/02/highres_467894402.jpeg.png" alt="" width="800" height="533" srcset="/archives/files/2018/02/highres_467894402.jpeg.png 800w, /archives/files/2018/02/highres_467894402.jpeg-300x200.png 300w, /archives/files/2018/02/highres_467894402.jpeg-768x512.png 768w, /archives/files/2018/02/highres_467894402.jpeg-450x300.png 450w" sizes="(max-width: 800px) 100vw, 800px" />](/archives/files/2018/02/highres_467894402.jpeg.png)
 
 Nous avons le plaisir de vous annoncer notre prochain meetup en co-organisation avec le Meetup [Symfony Aix &#8211; Marseille](https://www.meetup.com/fr-FR/SymfonyAixMarseille) à thecamp !
 

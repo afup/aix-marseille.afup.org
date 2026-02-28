@@ -4,7 +4,7 @@ title: 'Découverte de Laravel et présentation de l&rsquo;Expression Language'
 date: 2017-10-12T12:52:10+00:00
 author: adminmarseille
 layout: post
-guid: https://aix-marseille.afup.org/?p=125
+guid: /archives/?p=125
 permalink: /2017/10/12/decouverte-de-laravel-et-presentation-de-lexpression-language/
 image: /files/2018/02/LaravelLogo-1000x288.png
 categories:
