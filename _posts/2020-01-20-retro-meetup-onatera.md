@@ -3,7 +3,7 @@ title: '[Rétro] Meetup Onatera 16 Janvier 2020'
 date: 2020-01-20T22:06:38+00:00
 author: adminmarseille
 layout: post
-permalink: /2020/01/20/retro-meetup-onatera
+permalink: /2020/01/20/retro-meetup-onatera/
 categories:
   - Conférence
 excerpt_separator: <!--more-->

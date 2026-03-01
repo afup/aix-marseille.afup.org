@@ -3,7 +3,7 @@ title: 'Meetup Symfony 10 Octobre 2019 à thecamp'
 date: 2019-09-27T17:06:38+00:00
 author: adminmarseille
 layout: post
-permalink: /2019/09/27/meetup-symfony-10-octobre-2019
+permalink: /2019/09/27/meetup-symfony-10-octobre-2019/
 categories:
   - Conférence
 excerpt_separator: <!--more-->
